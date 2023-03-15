@@ -1,0 +1,2 @@
+# customDampTransform
+在AnimationRigging的DampTransform上做修改，阻尼运动的时候避免拉伸
